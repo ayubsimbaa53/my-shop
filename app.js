@@ -25,7 +25,7 @@ const categoriesRoutes = require('./routes/categories');
 const productsRoutes = require('./routes/products');
 const usersRoutes = require('./routes/users');
 const ordersRoutes = require('./routes/orders');
-const res = require('express/lib/response');
+// const res = require('express/lib/response');
 
 const api = process.env.API_URL;
 
