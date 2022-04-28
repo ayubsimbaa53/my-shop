@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const { colours } = require('nodemon/lib/config/defaults');
+// const { colours } = require('nodemon/lib/config/defaults');
 
 const categorySchema = mongoose.Schema({
     name: {
